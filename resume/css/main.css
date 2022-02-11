@@ -1,0 +1,5 @@
+.image-align{
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+}
