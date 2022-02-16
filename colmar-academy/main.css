@@ -1,0 +1,30 @@
+.jumbo-container{
+    display: flex;
+    background-color: hsl(0deg 0% 85%);
+}
+.jumbo-text{
+    display: flex;
+}
+.start-learning-style{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+
+.bt-margin32{
+    margin-bottom: 32px;
+}
+
+.grid11 {
+    display: grid;
+    grid-column-gap: 24px;
+    }
+
+.greybg{
+    background-color: hsl(0deg 0% 85%);
+}
+
+.img-width75{
+    width: 75%;
+    height: auto;
+}
